@@ -25,3 +25,6 @@ This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-ins
 ## TROUBLESHOOT
 
 ## BUILD !
+- Write more tests
+- Add reflection
+- ...
