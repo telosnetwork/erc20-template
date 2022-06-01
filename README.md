@@ -7,7 +7,7 @@ This template contains everything you need to deploy a basic ERC20 contract to t
 This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 ## INSTALL
-- Click the use template button:
+- Click the "use this template" button in [this repository](https://github.com/telosnetwork/erc20-template)
 - Change the following configuration values in `hardhat.config.js`:
     - Test: Test
     - Test: Test
