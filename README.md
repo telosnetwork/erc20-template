@@ -5,5 +5,9 @@
 - Change configuration in 
 - Install nodejs and hardhat
 - Pull / Install this repo on your machine
-- Build & deploy using /scripts/deploy.js
 
+## DEPLOY
+- Build & deploy using /scripts/deploy.js
+- Interact with your contract using our live app or one of our example repos
+
+## TROUBLESHOOTING
