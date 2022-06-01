@@ -9,8 +9,6 @@ This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-ins
 ## INSTALL
 - Click the "use this template" button in [this repository](https://github.com/telosnetwork/erc20-template) and copy the **URL** once generation is finished.
 ![Use this template](https://i.imgur.com/6TB0NaE.jpg)
-- Define the following configuration values in `hardhat.config.js`:
-    - accounts: ['MY_ADDRESS']
 - Define the following configuration values in `config.js`:
     - account: 'MY_ADDRESS'
     - token_name: 'MY_TOKEN'
