@@ -2,6 +2,10 @@
 
 This template contains everything you need to deploy a basic ERC20 contract to the Telos EVM Network. Follow the steps below to deploy and interact with your own token in minutes !
 
+## NOTES
+
+Commands and tools used here work for Linux or Windows and have not been verified for Mac
+
 ## REQUIREMENTS
 
 This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed on your machine and a [wallet address on the Telos EVM Network](https://www.telos.net?#getting-started).
