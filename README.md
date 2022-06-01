@@ -17,7 +17,7 @@ This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-ins
 - Use `npx hardhat test` to launch the tests
 
 ## DEPLOY
-- Build & deploy using `/scripts/deploy.js`
+- Build & deploy using `npx hardhat run --network testnet scripts/deploy.js`
 - Interact with your contract using our live app or one of our example repos
 
 ## TROUBLESHOOT
