@@ -18,6 +18,7 @@ This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-ins
 
 ## DEPLOY
 - Build & deploy using `npx hardhat run --network testnet scripts/deploy.js`
-- Interact with your contract using our live app, one of our example repos or using the hardhat console
+- Save the contract address returned in your console
+- Interact with your contract using our live app, one of our example repos or the hardhat console
 
 ## TROUBLESHOOT
