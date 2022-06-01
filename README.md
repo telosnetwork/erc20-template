@@ -15,7 +15,7 @@ This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-ins
 - Install hardhat on your machine by running `npm install hardhat`
 - Install the template on your machine with `git clone [URL]` (git required) or download the code and install it manually
 
-## TEST
+## TEST (OPTIONAL)
 - Use `npx hardhat test` to launch the tests
 
 ## DEPLOY
