@@ -11,6 +11,11 @@ This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-ins
 ![Use this template](https://i.imgur.com/6TB0NaE.jpg)
 - Define the following configuration values in `hardhat.config.js`:
     - accounts: ['MY_ADDRESS']
+- Define the following configuration values in `config.js`:
+    - account: 'MY_ADDRESS'
+    - token_name: 'MY_TOKEN'
+    - token_symbol: 'MYTOK'
+    - token_supply: 10000
 - Install hardhat on your machine by running `npm install hardhat`
 - Install the template on your machine with `git clone [URL]` (git required) or download the code and install it manually
 
