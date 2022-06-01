@@ -4,7 +4,7 @@ This template contains everything you need to deploy a basic ERC20 contract to t
 
 ## REQUIREMENTS
 
-This template requires [NodeJS & NPM]([https://pages.github.com/](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)) as well as [Hardhat](https://hardhat.org/) to be installed on your machine.
+This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) as well as [Hardhat](https://hardhat.org/) to be installed on your machine.
 
 ## INSTALL
 - Fork this repository
