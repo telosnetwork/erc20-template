@@ -27,6 +27,9 @@ Commands used below work on recent Linux or Windows versions but have not been v
 - Save the contract address returned in the console, ie: `0xe7209d65c5BB05Ddf799b20fF0EC09E691FC3f11`, **you will need it for the next step !**
 - Interact with your contract using our [live app](https://www.telos.net), one of our [example repos](https://www.github.com/telosnetwork) or the hardhat console
 
+## VERIFY
+To verify your new token contract...
+
 ## TROUBLESHOOT
 
 ## BUILD !
