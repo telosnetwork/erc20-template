@@ -2,12 +2,15 @@
 
 This template contains everything you need to deploy a basic ERC20 contract to the Telos EVM Network. Follow the steps below to deploy and interact with your own token in minutes !
 
+## REQUIREMENTS
+
+This template requires [NodeJS & NPM]([https://pages.github.com/](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)) as well as [Hardhat](https://hardhat.org/) to be installed on your machine.
+
 ## INSTALL
 - Fork this repository
 - Change the following configuration values in `hardhat.config.js`:
     - Test
     - Test
-- Install nodejs and hardhat
 - Pull / Install this repo on your machine
 
 ## TEST
