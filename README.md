@@ -8,7 +8,7 @@ This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-ins
 
 ## INSTALL
 - Click the "use this template" button in [this repository](https://github.com/telosnetwork/erc20-template) and copy the **URL** once generation is finished.
-![Use this template]('https://uploads-ssl.webflow.com/60abb689ce5c94972a5f808a/6297e1a638300c22b0d47b07_Untitled-3.jpg')
+![Use this template](https://i.imgur.com/6TB0NaE.jpg)
 - Change the following configuration values in `hardhat.config.js`:
     - Test: Test
     - Test: Test
