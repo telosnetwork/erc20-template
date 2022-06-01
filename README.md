@@ -1,1 +1,1 @@
-# erc20-starter
+# ERC20 Template for Telos EVM Network
