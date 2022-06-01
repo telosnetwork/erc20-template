@@ -7,11 +7,10 @@ This template contains everything you need to deploy a basic ERC20 contract to t
 This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) as well as [Hardhat](https://hardhat.org/) to be installed on your machine.
 
 ## INSTALL
-- Fork this repository
+- Pull / Install this repo on your machine
 - Change the following configuration values in `hardhat.config.js`:
     - Test
     - Test
-- Pull / Install this repo on your machine
 
 ## TEST
 - Use `npx hardhat test` to launch the tests
