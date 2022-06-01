@@ -4,7 +4,7 @@ This template contains everything you need to deploy a basic ERC20 contract to t
 
 ## REQUIREMENTS
 
-This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) and a [wallet address on the Telos EVM Network](https://www.telos.net?#getting-started).
+This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed on your machine and a [wallet address on the Telos EVM Network](https://www.telos.net?#getting-started).
 
 ## INSTALL
 - Click the "use this template" button in [this repository](https://github.com/telosnetwork/erc20-template) and copy the **URL** once generation is finished.
