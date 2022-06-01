@@ -1,5 +1,7 @@
 # ERC20 Template for Telos EVM Network
 
+This template contains everything you need to deploy a basic ERC20 contract to the Telos EVM Network. Follow the steps below to deploy your own in minutes !
+
 ## INSTALL
 - Fork this repository
 - Change configuration in `hardhart.config.js`
