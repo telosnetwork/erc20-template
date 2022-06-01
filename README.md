@@ -10,4 +10,4 @@
 - Build & deploy using `/scripts/deploy.js`
 - Interact with your contract using our live app or one of our example repos
 
-## TROUBLESHOOTING
+## TROUBLESHOOT
