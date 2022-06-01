@@ -4,7 +4,9 @@ This template contains everything you need to deploy a basic ERC20 contract to t
 
 ## INSTALL
 - Fork this repository
-- Change configuration in `hardhat.config.js`
+- Change the following configuration values in `hardhat.config.js`:
+    - Test
+    - Test
 - Install nodejs and hardhat
 - Pull / Install this repo on your machine
 
