@@ -22,7 +22,7 @@ This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-ins
 
 ## DEPLOY
 - Build & deploy using `npx hardhat run --network testnet scripts/deploy.js`
-- Save the contract address returned in the console, ie: `0xe7209d65c5BB05Ddf799b20fF0EC09E691FC3f11`
+- Save the contract address returned in the console, ie: `0xe7209d65c5BB05Ddf799b20fF0EC09E691FC3f11`, **you will need it for the next step !**
 - Interact with your contract using our live app, one of our example repos or the hardhat console
 
 ## TROUBLESHOOT
