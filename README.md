@@ -9,7 +9,7 @@ This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-ins
 Commands used below work on recent Linux or Windows versions but have not been verified for Mac
 
 ## INSTALL
-- Click the "use this template" button in [this repository](https://github.com/telosnetwork/erc20-template) and copy the **URL** once generation is finished.
+- Click the "use this template" button in [this repository](https://github.com/telosnetwork/erc20-template) and copy the **URL** you are redirected to once the generation is finished.
 ![Use this template](https://i.imgur.com/6TB0NaE.jpg)
 - Define the following configuration values in `config.js`:
     - account: 'MY_ADDRESS'
