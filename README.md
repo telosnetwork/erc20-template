@@ -24,3 +24,5 @@ This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-ins
 - Interact with your contract using our live app, one of our example repos or the hardhat console
 
 ## TROUBLESHOOT
+
+## BUILD !
