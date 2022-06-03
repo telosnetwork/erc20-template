@@ -12,10 +12,10 @@ Commands used below work on recent Linux or Windows versions but have not been v
 - Click the "use this template" button in [this repository](https://github.com/telosnetwork/erc20-template) and copy the **URL** you are redirected to once the generation is finished.
 ![Use this template](https://i.imgur.com/6TB0NaE.jpg)
 - Change the following configuration values in the `.env` file:
-    - `ACCOUNT='MY_ADDRESS'` _ _ // Your Telos EVM address, ie: 0xe7209d65c5BB05Ddf799b20fF0EC09E691FC3f11 _ _
-    - `TOKEN_NAME='My Token'` _ _ // The Token's name _ _
-    - `TOKEN_SYMBOL: 'MYTOK'` _ _ // The Token's symbol _ _
-    - `TOKEN_SUPPLY: 10000` _ _ // The Token's initial supply (sent to ACCOUNT) _ _
+    - `ACCOUNT='MY_ADDRESS'` __ // Your Telos EVM address, ie: 0xe7209d65c5BB05Ddf799b20fF0EC09E691FC3f11 __
+    - `TOKEN_NAME='My Token'` __ // The Token's name __
+    - `TOKEN_SYMBOL: 'MYTOK'` __ // The Token's symbol __
+    - `TOKEN_SUPPLY: 10000` __ // The Token's initial supply (sent to ACCOUNT) __
 - Install the template on your machine with `git clone [PREVIOUSLY COPIED URL]` (GIT required) or download the code and install it manually
 - Enter the directory of the project on your machine and install hardhat by running `npm install hardhat`
 
