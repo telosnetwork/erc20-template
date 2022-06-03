@@ -18,6 +18,7 @@ Commands used below work on recent Linux or Windows versions but have not been v
     - `TOKEN_SUPPLY: 10000`
 - Install the template on your machine with `git clone [PREVIOUSLY COPIED URL]` (GIT required) or download the code and install it manually
 - Enter the directory of the project on your machine and install hardhat by running `npm install hardhat`
+- In the same directory install hardhat-deploy by running `npm install hardhat-deploy`
 
 ## TEST (OPTIONAL)
 - Use `npx hardhat test` to build and launch the tests
