@@ -28,7 +28,7 @@ Commands used below work on recent Linux or Windows versions but have not been v
 - Check your contract out by searching that address on [teloscan](https://testnet.teloscan.io)
 - Interact with your contract using our [live app](https://www.telos.net), one of our [example repos](https://www.github.com/telosnetwork) or the hardhat console
 
-## VERIFY
+## VERIFY (OPTIONAL)
 To verify your new token contract...
 
 ## TROUBLESHOOT
