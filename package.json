@@ -1,10 +1,16 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "@nomiclabs/hardhat-waffle": "^2.0.3",
     "@openzeppelin/contracts": "^4.6.0",
     "dotenv": "^16.0.1",
     "hardhat": "^2.9.7",
     "hardhat-deploy": "^0.11.10",
     "solidity-coverage": "^0.7.21"
+=======
+    "@openzeppelin/contracts": "^4.6.0",
+    "hardhat": "^2.9.7",
+    "hardhat-deploy": "^0.11.10"
+>>>>>>> ff737b40e1446944952ab359c08c0bfa9739ec75
   }
 }
