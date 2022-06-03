@@ -23,7 +23,7 @@ Commands used below work on recent Linux or Windows versions but have not been v
 - Use `npx hardhat test` to build and launch the tests
 
 ## DEPLOY
-- Build & deploy using `npx hardhat run --network testnet scripts/deploy.js`
+- Build & deploy using `npx hardhat --network testnet deploy`
 - Save the contract address returned in the console, ie: `0xe7209d65c5BB05Ddf799b20fF0EC09E691FC3f11`, **you will need it for the next steps !**
 - Check your contract out by searching that address on [teloscan](https://testnet.teloscan.io)
 - Interact with your contract using our [live app](https://www.telos.net), one of our [example repos](https://www.github.com/telosnetwork) or the hardhat console
@@ -33,7 +33,11 @@ Commands used below work on recent Linux or Windows versions but have not been v
 - Make sure your contract is verified using [teloscan](https://testnet.teloscan.io)
 
 ## TROUBLESHOOT
+<<<<<<< HEAD
 Brand new to development ? Need more help setting things up ? Got a cool idea you need help with ? [Visit our developer channel on Telegram](https://t.me/TelosEVMDevs) !
+=======
+Brand new to development ? Need more help settings things up ? [Visit our developer channel on Telegram](https://t.me/TelosEVMDevs) !
+>>>>>>> 58ddadeffc22a2ca254385175c48826230728f15
 
 ## KEEP BUILDING !
 - Add reflection
