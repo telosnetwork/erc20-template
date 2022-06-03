@@ -36,7 +36,7 @@ module.exports = {
   networks: {
     testnet: {
       url: "https://testnet.telos.net/evm",
-      accounts: [process.env.account],
+      accounts: [],
     }
   },
 };
