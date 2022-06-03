@@ -1,6 +1,6 @@
 # ERC20 Template for Telos EVM Network
 
-This template contains everything you need to deploy a basic Open Zeppelin ERC20 contract to the Telos EVM Network. Follow the steps below to deploy and interact with your own ERC20 token in minutes ! 
+This template contains everything you need to deploy a basic Open Zeppelin ERC20 contract to the [Telos EVM](https://www.telos.net/evm) Testnet Network. Follow the steps below to deploy and interact with your own ERC20 token in minutes ! 
 
 ## REQUIREMENTS
 
