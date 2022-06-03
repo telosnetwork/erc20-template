@@ -12,10 +12,10 @@ Commands used below work on recent Linux or Windows versions but have not been v
 - Click the "use this template" button in [this repository](https://github.com/telosnetwork/erc20-template) and copy the **URL** you are redirected to once the generation is finished.
 ![Use this template](https://i.imgur.com/6TB0NaE.jpg)
 - Change the following configuration values in the `.env` file of your newly created repository:
-    - `ACCOUNT: MY_ADDRESS`  
+    - `ACCOUNT: MY_TESTNET_EVM_ADDRESS`  
     - `TOKEN_NAME: My Token`
     - `TOKEN_SYMBOL: MYTOK`
-    - `TOKEN_SUPPLY: 10000`
+    - `TOKEN_INITIAL_SUPPLY: 10000`
 - Install the repository on your machine with `git clone [PREVIOUSLY COPIED URL]` (GIT required) or download the code and install it manually
 - Enter the directory of the project on your machine and install its dependencies by running `npm install`
 
@@ -29,7 +29,8 @@ Commands used below work on recent Linux or Windows versions but have not been v
 - Interact with your contract using our [live app](https://www.telos.net), one of our [example repos](https://www.github.com/telosnetwork) or the hardhat console
 
 ## VERIFY (OPTIONAL)
-To verify your new token contract...
+- Verify your new token contract with `npx hardhat --network testnet sourcify`
+- Make sure your contract is verified using [teloscan](https://testnet.teloscan.io)
 
 ## TROUBLESHOOT
 
