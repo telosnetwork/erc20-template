@@ -1,8 +1,5 @@
 /node_modules
-<<<<<<< HEAD
 package-lock.json
 /artifacts
 /cache
-=======
-package-lock.json
->>>>>>> ff737b40e1446944952ab359c08c0bfa9739ec75
+/deployments
