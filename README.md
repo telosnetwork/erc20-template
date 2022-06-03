@@ -4,7 +4,7 @@ This template contains everything you need to deploy a basic Open Zeppelin ERC20
 
 ## REQUIREMENTS
 
-This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed on your machine and a [wallet address on the Telos EVM Network](https://www.telos.net?#getting-started).
+This template requires [NodeJS & NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) installed on your machine and a [wallet address on the Telos EVM Testnet Network](https://www.telos.net/getting-started-testnet).
 
 Commands used below work on recent Linux or Windows versions but have not been verified for Mac
 
