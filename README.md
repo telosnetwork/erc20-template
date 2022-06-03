@@ -11,11 +11,11 @@ Commands used below work on recent Linux or Windows versions but have not been v
 ## INSTALL
 - Click the "use this template" button in [this repository](https://github.com/telosnetwork/erc20-template) and copy the **URL** you are redirected to once the generation is finished.
 ![Use this template](https://i.imgur.com/6TB0NaE.jpg)
-- Change the following configuration values in `config.js`:
-    - account: 'MY_ADDRESS'
-    - token_name: 'My Token'
-    - token_symbol: 'MYTOK'
-    - token_supply: 10000
+- Change the following configuration values in the `.env` file:
+    - `ACCOUNT='MY_ADDRESS'`
+    - `TOKEN_NAME='My Token'`
+    - `TOKEN_SYMBOL: 'MYTOK'`
+    - `TOKEN_SUPPLY: 10000`
 - Install the template on your machine with `git clone [PREVIOUSLY COPIED URL]` (GIT required) or download the code and install it manually
 - Enter the directory of the project on your machine and install hardhat by running `npm install hardhat`
 
