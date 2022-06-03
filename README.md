@@ -33,6 +33,7 @@ Commands used below work on recent Linux or Windows versions but have not been v
 - Make sure your contract is verified using [teloscan](https://testnet.teloscan.io)
 
 ## TROUBLESHOOT
+Brand new to development ? Need more help settings things up ? [Visit our developer channel on Telegram](https://t.me/TelosEVMDevs) !
 
 ## KEEP BUILDING !
 - Add reflection
