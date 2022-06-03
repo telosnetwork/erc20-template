@@ -20,7 +20,7 @@ Commands used below work on recent Linux or Windows versions but have not been v
 - Enter the directory and install hardhat by running `npm install hardhat`
 
 ## TEST (OPTIONAL)
-- Use `npx hardhat test` to launch the tests
+- Use `npx hardhat test` to build and launch the tests
 
 ## DEPLOY
 - Build & deploy using `npx hardhat run --network testnet scripts/deploy.js`
