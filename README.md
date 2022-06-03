@@ -17,7 +17,7 @@ Commands used below work on recent Linux or Windows versions but have not been v
     - token_symbol: 'MYTOK'
     - token_supply: 10000
 - Install the template on your machine with `git clone [PREVIOUSLY COPIED URL]` (GIT required) or download the code and install it manually
-- Enter the directory and install hardhat by running `npm install hardhat`
+- Enter the directory of the project on your machine and install hardhat by running `npm install hardhat`
 
 ## TEST (OPTIONAL)
 - Use `npx hardhat test` to build and launch the tests
