@@ -37,7 +37,7 @@ Commands used below work on recent Linux or Windows versions but have not been v
 
 ## TROUBLESHOOT
 
-### Verify: Gateway Timeout
+### Verify: 504 Gateway Timeout
 
 `"<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n<hr><center>nginx/1.14.2</center>\r\n</body>\r\n</html>\r\n"`
 
