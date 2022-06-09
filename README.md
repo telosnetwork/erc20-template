@@ -41,7 +41,7 @@ Commands used below work on recent Linux or Windows versions but have not been v
 
 `"<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n<hr><center>nginx/1.14.2</center>\r\n</body>\r\n</html>\r\n"`
 
-The sourcify server connection timed out but do not worry, your contract is still getting verified, run the `npx hardhat --network testnet sourcify` command again to make sure, it should tell you it is already verified !
+The sourcify server connection timed out but your contract is still getting verified, run the `npx hardhat --network testnet sourcify` command again to make sure, it should tell you it is already verified !
 
 **Brand new to development ? Need more help setting things up ? Got a cool idea you need help with ? [Visit our developer channel on Telegram](https://t.me/TelosEVMDevs) !**
 
