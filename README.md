@@ -36,6 +36,13 @@ Commands used below work on recent Linux or Windows versions but have not been v
 `already verified: MyContract (0x2A3b40A59109a84ab82a0Ff1A3910bb595082e09), skipping.`
 
 ## TROUBLESHOOT
+
+### Verification
+
+`"<html>\r\n<head><title>504 Gateway Time-out</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>504 Gateway Time-out</h1></center>\r\n<hr><center>nginx/1.14.2</center>\r\n</body>\r\n</html>\r\n"`
+
+The sourcify server connection timed out but do not worry, your contract is still getting verified, run the `npx hardhat --network testnet sourcify` command again to make sure, it should tell you it is already verified !
+
 Brand new to development ? Need more help setting things up ? Got a cool idea you need help with ? [Visit our developer channel on Telegram](https://t.me/TelosEVMDevs) !
 
 ## KEEP BUILDING !
