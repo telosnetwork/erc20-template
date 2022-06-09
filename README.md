@@ -30,7 +30,10 @@ Commands used below work on recent Linux or Windows versions but have not been v
 
 ## VERIFY (OPTIONAL)
 - Verify your new token contract with `npx hardhat --network testnet sourcify`
-- Make sure your contract is verified using [teloscan](https://testnet.teloscan.io)
+- You may run into a "gateway timeout" error message, do not worry, the contract will still be verified
+- Make sure your contract is verified by running the command again
+
+`already verified: MyContract (0x2A3b40A59109a84ab82a0Ff1A3910bb595082e09), skipping.`
 
 ## TROUBLESHOOT
 Brand new to development ? Need more help setting things up ? Got a cool idea you need help with ? [Visit our developer channel on Telegram](https://t.me/TelosEVMDevs) !
