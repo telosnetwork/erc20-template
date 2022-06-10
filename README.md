@@ -25,7 +25,7 @@ Commands used below work on recent Linux or Windows versions but have not been v
 ## DEPLOY
 - Build & deploy using `npx hardhat --network testnet deploy`
 - Save the contract address returned in the console, ie: `0xe7209d65c5BB05Ddf799b20fF0EC09E691FC3f11`, **you will need it for the next steps !**
-- Interact with your contract using  the hardhat console, our [block explorer](https://testnet.teloscan.io), our [example wallet repo](https://github.com/telosnetwork/evm-ui-template-examples) or start working on your own dApp using our [Quasar UI Template](https://github.com/telosnetwork/evm-ui-template)
+- Interact with your contract using  the hardhat console, our [block explorer](https://testnet.teloscan.io) or by deploying our [example wallet repo](https://github.com/telosnetwork/evm-ui-template-examples)
 
 ## VERIFY (OPTIONAL)
 - Verify your new token contract with `npx hardhat --network testnet sourcify`
