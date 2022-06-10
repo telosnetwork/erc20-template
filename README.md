@@ -46,6 +46,7 @@ The sourcify server connection timed out but your contract is still getting veri
 **Brand new to development ? Need more help setting things up ? Got a cool idea you need help with ? [Visit our developer channel on Telegram](https://t.me/TelosEVMDevs) !**
 
 ## KEEP BUILDING !
+- Make it ownable and use your own private key to deploy
 - Add reflection
 - Write more tests
 - Modify configuration and deploy to mainnet !
