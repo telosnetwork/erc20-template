@@ -9,5 +9,10 @@
     "hardhat": "^2.9.7",
     "hardhat-deploy": "^0.11.10",
     "solidity-coverage": "^0.7.21"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4"
   }
 }
